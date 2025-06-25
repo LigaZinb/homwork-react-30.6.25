@@ -1,0 +1,5 @@
+Project: Order Status Natification UI
+Description: A React-based dashboard with buttons and status messages.
+Author: Liga
+Date: 25.6.25
+
